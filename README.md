@@ -7,7 +7,6 @@ Funcionalities:
 - It can draw both Y and X axes, you just need to configure.
 - Acess via request the Pixel Canvas Api URL and send the parameters.
 - If the API is not ready to receive because the time, await and then send agan.
-- If the API returns asking for token, just send a get and then the error go away.
 
 Future Improvementes:
 
