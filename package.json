@@ -1,0 +1,23 @@
+{
+  "name": "pixel-canvas-api",
+  "version": "1.0.0",
+  "description": "Pixel Canvas Hassle API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "pixel-canvas",
+    "pixel-canvas-api"
+  ],
+  "author": "Renan Alfarth <renan.fire12@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "frisby": "^0.8.5"
+  },
+  "dependencies": {
+    "generate-password": "^1.2.0",
+    "mongodb": "^2.2.22"
+  }
+}
